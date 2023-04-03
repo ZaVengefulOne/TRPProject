@@ -7,6 +7,9 @@ bot = Bot(token=token)
 dp = Dispatcher(bot)
 
 
+
+
+
 @dp.message_handler(commands=['start' , 'help'])
 async def send_welcome(msg: types.message):
     await msg.reply_to_message(f'Привет, я - бот помощник повара. Приятно познакомиться, {msg.from_user.full_name}')
