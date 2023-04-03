@@ -25,3 +25,6 @@ pip install beautifulsoup4
 
 ---
 ## Контакты
+>__Авторы:__ Тараканов Вячеслав / Шаломеенко Андрей
+>__GitHub:__ @NakaraT / @ZaVengefulOne
+---
