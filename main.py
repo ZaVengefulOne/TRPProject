@@ -18,7 +18,7 @@
 #        await msg.answer('Привет!')
 #    else:
 #        await msg.answer('Не понимаю, что это значит.')
-#
+# test
 # if __name__ == '__main__':
 #     executor.start_polling(dp)
 
