@@ -1,0 +1,4 @@
+Python 3.8+
+python-telegram-bot (версия 13.4.1+)
+requests (версия 2.26.0+)
+beautifulsoup4 (версия 4.9.3+)
