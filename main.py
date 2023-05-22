@@ -1,9 +1,6 @@
 from aiogram import Bot, types
 from aiogram.dispatcher.dispatcher import Dispatcher
-from aiogram.utils import executor
 import Parser
-import SearchParser
-
 token = "6077834064:AAEi70eoSxqqIu9YC3eiuQKB2jM1XjP9sMI"
 bot = Bot(token=token)
 dp = Dispatcher(bot)
